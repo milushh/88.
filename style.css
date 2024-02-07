@@ -1,0 +1,36 @@
+body{
+    width: 1000px;
+    height: 1000px;
+    background: url(./1612891724_85-p-krasnii-fon-gradient-dlya-fotoshopa-96.jpg);
+  
+   background-size: cover;
+}
+
+.cnopc1{
+    background-color: rgb(240, 173, 176);
+    width: 150px;
+    height: 35px;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 30%;
+    border-color: rgb(254,165,169) ;
+    border-radius: 10px;
+    
+   
+ 
+}
+.cnopc1:hover{
+  color:rgb(233, 81, 81) ;
+  
+}
+#mi{
+  font-size: 17px;
+  position: absolute;
+  margin-left: 27%;
+  margin-top: 455px;
+  font-family: Courier New ;
+  text-transform: uppercase;
+  font-weight: 200;
+
+}
+
